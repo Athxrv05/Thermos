@@ -5,6 +5,7 @@ public class Termostate {
 		
 		
 		//The trial for the testing after exams if i know to use github
+		//pull trial if done i know github
 
 	}
 
